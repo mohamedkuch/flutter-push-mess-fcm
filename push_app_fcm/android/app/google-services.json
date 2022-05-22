@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101595520952",
+    "project_id": "push-message-fcm",
+    "storage_bucket": "push-message-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101595520952:android:6c0c2bc42613ffd0b5394d",
+        "android_client_info": {
+          "package_name": "com.kechaou.push_app_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101595520952-mcouk79b3traqag5sck63on759gsk6sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuXV2DY0dXxa97p2noFLz4AdRTxSUiEa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101595520952-mcouk79b3traqag5sck63on759gsk6sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
